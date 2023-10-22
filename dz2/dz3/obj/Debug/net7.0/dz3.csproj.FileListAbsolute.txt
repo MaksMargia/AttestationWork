@@ -1,0 +1,14 @@
+C:\Users\maks1\Desktop\dz\dz2\dz3\bin\Debug\net7.0\dz3.exe
+C:\Users\maks1\Desktop\dz\dz2\dz3\bin\Debug\net7.0\dz3.deps.json
+C:\Users\maks1\Desktop\dz\dz2\dz3\bin\Debug\net7.0\dz3.runtimeconfig.json
+C:\Users\maks1\Desktop\dz\dz2\dz3\bin\Debug\net7.0\dz3.dll
+C:\Users\maks1\Desktop\dz\dz2\dz3\bin\Debug\net7.0\dz3.pdb
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\dz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\dz3.AssemblyInfoInputs.cache
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\dz3.AssemblyInfo.cs
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\dz3.csproj.CoreCompileInputs.cache
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\dz3.dll
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\refint\dz3.dll
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\dz3.pdb
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\dz3.genruntimeconfig.cache
+C:\Users\maks1\Desktop\dz\dz2\dz3\obj\Debug\net7.0\ref\dz3.dll
